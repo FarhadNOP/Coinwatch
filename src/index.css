@@ -1,0 +1,26 @@
+@import "tailwindcss";
+.crypto-app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.warning-banner {
+  background: #fff3cd;
+  color: #856404;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.loader {
+  text-align: center;
+  padding: 40px;
+  font-size: 18px;
+}
+
+.crypto-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
