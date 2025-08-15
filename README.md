@@ -53,6 +53,7 @@ Version 1 (Vanilla JS):
 <img width="1360" height="641" alt="1" src="https://github.com/user-attachments/assets/ffb7a62f-543d-4022-af58-7af89c989247" />
 Static homepage displaying trending crypto prices
 
+
 Version 2 (React):
 <img width="1360" height="641" alt="2" src="https://github.com/user-attachments/assets/96f9926f-a306-44a1-b65d-2c5f91eda276" />
 Interactive homepage with crypto cards and filters and Pop-up TradingView chart with blurred background
